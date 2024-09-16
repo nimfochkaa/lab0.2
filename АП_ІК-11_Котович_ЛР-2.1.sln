@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "АП_ІК-11_Котович_ЛР-2.1", "АП_ІК-11_Котович_ЛР-2.1\АП_ІК-11_Котович_ЛР-2.1.vcxproj", "{8E18F37C-2385-47AD-B1A8-B25E131901A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E18F37C-2385-47AD-B1A8-B25E131901A4}.Debug|x64.ActiveCfg = Debug|x64
+		{8E18F37C-2385-47AD-B1A8-B25E131901A4}.Debug|x64.Build.0 = Debug|x64
+		{8E18F37C-2385-47AD-B1A8-B25E131901A4}.Debug|x86.ActiveCfg = Debug|Win32
+		{8E18F37C-2385-47AD-B1A8-B25E131901A4}.Debug|x86.Build.0 = Debug|Win32
+		{8E18F37C-2385-47AD-B1A8-B25E131901A4}.Release|x64.ActiveCfg = Release|x64
+		{8E18F37C-2385-47AD-B1A8-B25E131901A4}.Release|x64.Build.0 = Release|x64
+		{8E18F37C-2385-47AD-B1A8-B25E131901A4}.Release|x86.ActiveCfg = Release|Win32
+		{8E18F37C-2385-47AD-B1A8-B25E131901A4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2D6F257-9B4F-4584-9F6C-FDA939A777A6}
+	EndGlobalSection
+EndGlobal
